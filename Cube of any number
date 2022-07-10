@@ -1,0 +1,23 @@
+//WAP to get cube any numbers
+
+#include<iostream>
+
+#include<cmath>
+
+using namespace std;
+
+int main()
+
+{
+
+int n,cube;
+
+cin>>n;
+
+cube=n*n*n;
+
+cout<<"Cube of the num"<<cube<<endl;
+
+return 0;
+
+}
